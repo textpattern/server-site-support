@@ -1,3 +1,3 @@
-# Textpattern Server & Site Support Issues
+# Server & Site Support Issues
 
-Textpattern server down or misbehaving? [Please open an issue](https://github.com/textpattern/server-site-support/issues/new).
+Is a Textpattern project site, server or channel down or misbehaving? [Please open an issue](https://github.com/textpattern/server-site-support/issues/new).
