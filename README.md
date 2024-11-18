@@ -1,3 +1,3 @@
-# Textpattern CMS Demo Server Support
+# Textpattern Server & Site Support Issues
 
-Demo server down or misbehaving? [Please open an issue](https://github.com/textpattern/demo-server-support/issues/new).
+Textpattern server down or misbehaving? [Please open an issue](https://github.com/textpattern/server-site-support/issues/new).
